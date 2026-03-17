@@ -14,14 +14,15 @@ Python | SQL | Excel | Tableau | Git | Epic EMR
 - Healthcare No-Show Rate Analysis (Python, SQL)
 - Medication Data Analysis
   
-# 📫 How to Reach Me**
+# 📫 How to Reach Me
 Email: jason.toan.bui@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jason-toan-bui/
 
 # Fun Facts
-- I love surfing and driving manual cars
+- I love surfing, snowboarding, and driving manual cars
 - I'm a gigging guitarist and bassist on my days off
-- Friends say I'm extroverted and can hold a good conversation
+- I enjoy volunteering and helping in my community
+- I'm an extroverted person who enjoys meeting and connecting with people
 <!--
 
 Here are some ideas to get you started:
