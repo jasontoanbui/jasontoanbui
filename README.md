@@ -9,7 +9,7 @@ I'm currently building professional projects focused on healthcare data analysis
 I work with Python, SQL, Excel, Tableau, Git, and Epic EMR
 
 **📊 Projects**
-- Healthcare No-Show Rate Analysis (Python, SQL)
+- Healthcare No-Show Rate Analysis
 - Medication Data Analysis
   
 **📫 How to Reach Me**
