@@ -1,7 +1,23 @@
-## Hi there 👋
+## Hey there! 👋
 
+I'm Jason, a healthcare professional transitioning into data analytics.
+
+I have experience working with patient data in clinical settings and enjoy using data to improve healthcare systems and decision-making.
+
+I'm currently building professional projects focused on healthcare data analysis.
+
+## 🛠️ Tools
+Python | SQL | Excel | Tableau | Git | Epic EMR
+
+## 📫 How to Reach Me
+Email: jason.toan.bui@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jason-toan-bui/
+
+## Fun Facts
+- I love surfing and driving manual cars
+- I'm a gigging guitarist and bassist on my days off
+- Friends say I'm extroverted and can hold a good conversation
 <!--
-**jasontoanbui/jasontoanbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
