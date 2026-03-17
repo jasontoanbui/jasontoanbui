@@ -6,9 +6,7 @@ I have experience working with patient data in clinical settings and enjoy using
 
 I'm currently building professional projects focused on healthcare data analysis.
 
-
-**🛠️ Tools**
-Python | SQL | Excel | Tableau | Git | Epic EMR
+I work with Python, SQL, Excel, Tableau, Git, and Epic EMR
 
 **📊 Projects**
 - Healthcare No-Show Rate Analysis (Python, SQL)
