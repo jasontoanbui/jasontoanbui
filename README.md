@@ -13,10 +13,10 @@ I work with Python, SQL, Excel, Tableau, Git, and Epic EMR
 - Medication Data Analysis
   
 **📫 How to Reach Me**
-Email: jason.toan.bui@gmail.com  
-LinkedIn: https://www.linkedin.com/in/jason-toan-bui/
+- Email: jason.toan.bui@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jason-toan-bui/
 
-**Fun Facts**
+**⚡ Fun Facts**
 - I love surfing, snowboarding, and driving manual cars
 - I'm a gigging guitarist and bassist on my days off
 - I enjoy volunteering and helping in my community
