@@ -6,13 +6,13 @@ I have experience working with patient data in clinical settings and enjoy using
 
 I'm currently building professional projects focused on healthcare data analysis.
 
-# 📊 Projects
-- Healthcare No-Show Rate Analysis (Python, SQL)
-- Medication Data Analysis
-
 # 🛠️ Tools
 Python | SQL | Excel | Tableau | Git | Epic EMR
 
+# 📊 Projects
+- Healthcare No-Show Rate Analysis (Python, SQL)
+- Medication Data Analysis
+  
 # 📫 How to Reach Me
 Email: jason.toan.bui@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jason-toan-bui/
